@@ -110,7 +110,7 @@ Sink:HTMLLIElement.className  冒号分隔，数据的终点是某个 Element �
 
 # 🍺赞赏    
 如果对你有帮助，请打赏豆豆以资鼓励🥂   
- <img src="https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking/blob/main/Donate.jpg" width = "350" height = "350" alt="图片名称" align=center />     
+ <img src="https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking/blob/main/Donate.jpg" width = "300" height = "300" alt="图片名称" align=center />     
 
 
 # 免责声明
